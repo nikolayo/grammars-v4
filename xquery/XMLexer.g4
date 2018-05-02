@@ -19,7 +19,7 @@
 lexer grammar XMLexer;
 
 options { 
-  tokenVocab=XQ;
+  tokenVocab=XQuery;
 }
 
 @header {

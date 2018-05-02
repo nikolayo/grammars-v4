@@ -41,7 +41,7 @@
 
 =============================================================================*/
 
-grammar XQ;
+grammar XQuery;
 
 // Tokens shared with the direct XML lexer
 

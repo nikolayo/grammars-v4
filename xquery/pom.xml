@@ -19,7 +19,7 @@
 				<configuration>
 					<sourceDirectory>${basedir}</sourceDirectory>
 					<includes>
-						<include>XQ.g4</include>
+						<include>XQuery.g4</include>
 						<include>XMLexer.g4</include>
 					</includes>
 					<visitor>true</visitor>
@@ -41,7 +41,7 @@
 					<verbose>false</verbose>
 					<showTree>false</showTree>
 					<entryPoint>compilation_unit</entryPoint>
-					<grammarName>CSharp</grammarName>
+					<grammarName>XQuery</grammarName>
 					<packageName></packageName>
 					<exampleFiles>examples/</exampleFiles>
 				</configuration>
