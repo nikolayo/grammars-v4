@@ -16,7 +16,7 @@
 
 =============================================================================*/
 
-package xqgrammar;
+package com.antlr.grammarsv4.xquery;
 
 import org.antlr.runtime.CharStream;
 import org.antlr.runtime.CommonToken;

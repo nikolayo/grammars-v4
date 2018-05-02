@@ -15,7 +15,7 @@
     limitations under the License.
 
 =============================================================================*/
-package xqgrammar;
+package com.antlr.grammarsv4.xquery;
 
 import java.io.File;
 

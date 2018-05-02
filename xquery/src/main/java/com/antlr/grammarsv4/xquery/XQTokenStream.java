@@ -16,7 +16,7 @@
 
 =============================================================================*/
 
-package xqgrammar;
+package com.antlr.grammarsv4.xquery;
 
 import java.util.ArrayList;
 import java.util.List;

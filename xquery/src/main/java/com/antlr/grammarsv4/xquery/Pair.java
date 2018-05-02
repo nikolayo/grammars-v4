@@ -16,7 +16,7 @@
 
 =============================================================================*/
 
-package xqgrammar;
+package com.antlr.grammarsv4.xquery;
 
 /**
  * Utility container class for object pairs.

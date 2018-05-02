@@ -16,7 +16,7 @@
 
 =============================================================================*/
 
-package xqgrammar;
+package com.antlr.grammarsv4.xquery;
 
 import org.antlr.runtime.IntStream;
 import org.antlr.runtime.RecognitionException;
